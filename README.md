@@ -9,6 +9,14 @@ and data management.
 - **Databases:** MySQL, MSSQL
 - **Cloud Services:** AWS
 - **Tools:** Git, GitHub, SSMS
+
+ ## 📜 Notable Past Projects
+- **Environmental Impact Analysis using Satellite Image Processing:** Presented at IEEE 4th ASIANCON 2024.
+- **Optimising Computation Offloading for Mobile Edge Devices:** Presented at ICAECT 2024.
+
+- ## 📫 Let's connect!
+Feel free to reach out via [LinkedIn]((https://www.linkedin.com/in/smriti-reddy/)) or email me at [u.smritireddy@gmail.com].
+
 <!--
 **SmritiReddyy/SmritiReddyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
