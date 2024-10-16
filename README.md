@@ -14,7 +14,7 @@ and data management.
 - **Environmental Impact Analysis using Satellite Image Processing:** Presented at IEEE 4th ASIANCON 2024.
 - **Optimising Computation Offloading for Mobile Edge Devices:** Presented at ICAECT 2024.
 
-- ## 📫 Let's connect!
+## 📫 Let's connect!
 Feel free to reach out via [LinkedIn]((https://www.linkedin.com/in/smriti-reddy/)) or email me at [u.smritireddy@gmail.com].
 
 <!--
