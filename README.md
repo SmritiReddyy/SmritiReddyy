@@ -10,7 +10,7 @@ and data management.
 - **Cloud Services:** AWS
 - **Tools:** Git, GitHub, SSMS
 
- ## 📜 Notable Past Projects
+ ## 📜 Past Projects
 - **Environmental Impact Analysis using Satellite Image Processing:** Presented at IEEE 4th ASIANCON 2024.
 - **Optimising Computation Offloading for Mobile Edge Devices:** Presented at ICAECT 2024.
 
