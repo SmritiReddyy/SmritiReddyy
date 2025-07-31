@@ -1,6 +1,6 @@
 ## Hi there 👋
 I'm Smriti Reddy. 
-I'm currently pursuing my Master's in Computer Science at Northeastern University, focusing on software development and data analysis. I have a strong interest in cloud computing, web development, 
+I'm currently pursuing my Master's in Computer Science at Northeastern University, focusing on software development and data analysis. I have a strong interest in cloud computing, web development, machine learning
 and data management.
 
 ## 🚀 Skills
