@@ -15,8 +15,7 @@ and data management.
 - **Optimising Computation Offloading for Mobile Edge Devices:** Presented at ICAECT 2024.
 
 ## 📫 Let's connect!
-Feel free to reach out via [LinkedIn]((https://www.linkedin.com/in/smriti-reddy/)) or email me at [u.smritireddy@gmail.com].
-
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/smriti-reddy) or email me [here](u.smritireddy@gmail.com).
 <!--
 **SmritiReddyy/SmritiReddyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
