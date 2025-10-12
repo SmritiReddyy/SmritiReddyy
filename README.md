@@ -4,11 +4,12 @@ I'm currently pursuing my Master's in Computer Science at Northeastern Universit
 and data management.
 
 ## Skills
-- **Languages:** Python, Java, JavaScript, SQL
-- **Frameworks:** Node.js, React
-- **Databases:** MySQL, MSSQL
-- **Cloud Services:** AWS
-- **Tools:** Git, GitHub, SSMS
+- **Languages:** Python, Java, C++, JavaScript, SQL, HTML5, CSS3, TypeScript
+- **Libraries** Sci-kit-Learn, TensorFlow, Keras, PyTorch, NumPy, Pandas
+- **Frameworks:** Node.js, React, Express.js, Spring Boot, FastAPI 
+- **Databases:** MySQL, MSSQL, MongoDB, NoSQL
+- **Cloud Services:** AWS(EC2, S3, Lambda), GCP, Azure
+- **Tools:** Git, GitHub, SSMS, QGIS, PowerBI, PowerQuery
 
  ##  Past Projects
 - **Environmental Impact Analysis using Satellite Image Processing:** Presented at IEEE 4th ASIANCON 2024.
