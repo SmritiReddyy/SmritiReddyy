@@ -1,7 +1,6 @@
 ## Hi there 👋
 I'm Smriti Reddy Uravakonda. 
-I'm currently pursuing my Master's in Computer Science at Northeastern University, focusing on software development and data analysis. I have a strong interest in cloud computing, web development, machine learning
-and data management.
+I'm currently pursuing my Master's in Computer Science at Northeastern University, focusing on software development and data analysis. I have a strong interest in cloud computing, web development, machine learning and data management.
 
 ## Skills
 - **Languages:** Python, Java, C++, JavaScript, SQL, HTML5, CSS3, TypeScript
