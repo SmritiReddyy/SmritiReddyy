@@ -63,10 +63,16 @@ Git · GitHub · SSMS · QGIS · Power BI · Power Query
 
 ---
 
-### 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=SmritiReddyy&theme=tokyonight)
+### 📈 GitHub Activity
+![Smriti's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SmritiReddyy&theme=tokyo-night)
 
----
+### 📊 GitHub Metrics
+![Metrics](https://metrics.lecoq.io/SmritiReddyy?template=classic&languages=1&isocalendar=1&activity=1&theme=tokyonight)
+
+### 📊 GitHub Overview
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SmritiReddyy&hide=issues,contribs&show_icons=true&theme=tokyonight)
+
+
 
 ### 🤝 Let’s Connect
 - **LinkedIn:** https://www.linkedin.com/in/smriti-reddy  
