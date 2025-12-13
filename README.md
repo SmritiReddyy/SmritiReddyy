@@ -28,7 +28,7 @@ Git · GitHub · SSMS · QGIS · Power BI · Power Query
 
 ---
 
-### 📌 Past Projects
+###  Past Projects
 - **Environmental Impact Analysis using Satellite Image Processing**  
   Presented at *IEEE 4th ASIANCON 2024*  
 
