@@ -38,6 +38,8 @@ Git · GitHub · SSMS · QGIS · Power BI · Power Query
 ### 📊 GitHub Metrics
 ![Metrics](https://metrics.lecoq.io/SmritiReddyy?template=classic&languages=1&isocalendar=1&activity=1&theme=tokyonight)
 
+### 📈 GitHub Activity
+![My GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SmritiReddyy&theme=tokyo-night)
 
 ### Let’s Connect
 - **LinkedIn:** https://www.linkedin.com/in/smriti-reddy  
