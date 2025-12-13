@@ -35,9 +35,6 @@ Git · GitHub · SSMS · QGIS · Power BI · Power Query
 - **Optimising Computation Offloading for Mobile Edge Devices**  
   Presented at *ICAECT 2024*  
 
-### 📊 GitHub Metrics
-![Metrics](https://metrics.lecoq.io/SmritiReddyy?template=classic&languages=1&isocalendar=1&activity=1&theme=tokyonight)
-
 ### 📈 GitHub Activity
 ![My GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SmritiReddyy&theme=tokyo-night)
 
