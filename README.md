@@ -1,4 +1,4 @@
-## Hi 
+## Hi 👋
 I'm **Smriti Reddy Uravakonda**
 
 I'm currently pursuing my **Master’s in Computer Science at Northeastern University**, with a focus on **software development** and **data analysis**.  
