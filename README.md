@@ -9,7 +9,7 @@ My interests span **cloud computing, web development, machine learning, and data
 ###  Skills
 
 **Languages**  
-Python · Java · C++ · JavaScript · TypeScript · SQL · HTML5 · CSS3  
+Python · Java · C++ · JavaScript · TypeScript · SQL · HTML5 · CSS3 · Data Structures & Algorithms
 
 **Libraries / ML**  
 Scikit-Learn · TensorFlow · Keras · PyTorch · NumPy · Pandas  
