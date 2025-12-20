@@ -26,6 +26,9 @@ AWS (EC2, S3, Lambda) · GCP · Azure
 **Tools**  
 Git · GitHub · SSMS · QGIS · Power BI · Power Query  
 
+**Other**
+Algorithms · Data Structures · Object Oriented Programming · Software Development · MS Office Suite · Google Suite
+
 ---
 
 ###  Past Projects
@@ -35,7 +38,7 @@ Git · GitHub · SSMS · QGIS · Power BI · Power Query
 - **Optimising Computation Offloading for Mobile Edge Devices**  
   Presented at *ICAECT 2024*  
 
-### 📈 GitHub Activity
+###  GitHub Activity
 ![My GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SmritiReddyy&theme=tokyo-night)
 
 ### Let’s Connect
