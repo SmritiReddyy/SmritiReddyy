@@ -36,7 +36,16 @@ Algorithms · Data Structures · Object Oriented Programming · Software Develop
   Presented at *IEEE 4th ASIANCON 2024*  
 
 - **Optimising Computation Offloading for Mobile Edge Devices**  
-  Presented at *ICAECT 2024*  
+  Presented at *ICAECT 2024*
+
+---
+## 🏆 Certifications
+
+[![AWS Academy Graduate – Cloud Foundations](https://images.credly.com/size/110x110/images/42dcf9a8-bb6d-4e00-9b8b-db05e98e1394/image.png)](https://www.credly.com/badges/42dcf9a8-bb6d-4e00-9b8b-db05e98e1394/linked_in_profile)
+
+**AWS Academy Graduate – Cloud Foundations**  
+Issued by Amazon Web Services (AWS) – February 2026
+
 
 ###  GitHub Activity
 ![My GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SmritiReddyy&theme=tokyo-night)
