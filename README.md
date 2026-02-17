@@ -39,6 +39,7 @@ Algorithms · Data Structures · Object Oriented Programming · Software Develop
   Presented at *ICAECT 2024*
 
 ---
+
 ## Certifications
 
 **AWS Academy Graduate – Cloud Foundations**  
