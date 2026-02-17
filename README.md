@@ -40,7 +40,7 @@ Algorithms · Data Structures · Object Oriented Programming · Software Develop
 
 ---
 
-## Certifications
+### Certifications
 
 **AWS Academy Graduate – Cloud Foundations**  
 Issued by Amazon Web Services (AWS) – February 2026
