@@ -1,8 +1,9 @@
 ## Hi 👋
 
-I'm **Smriti Reddy Uravakonda**
 <div align="center">
  
+I'm **Smriti Reddy Uravakonda**
+
 **Software Engineer · MS Computer Science, Northeastern University (May 2026)**
  
 Building systems at the intersection of distributed infrastructure, machine learning, and real-world impact.
