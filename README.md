@@ -1,18 +1,10 @@
 ## Hi 👋
 
-<div align="center">
- 
 I'm **Smriti Reddy Uravakonda**
 
-**Software Engineer · MS Computer Science, Northeastern University (May 2026)**
- 
-Building systems at the intersection of distributed infrastructure, machine learning, and real-world impact.
- 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-smriti--reddy-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smriti-reddy)
 [![Email](https://img.shields.io/badge/Email-u.smritireddy@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:u.smritireddy@gmail.com)
  
-</div>
-
 ### About Me
 
 I'm a software engineer with a strong foundation in backend systems, cloud infrastructure, and applied machine learning. My graduate work at Northeastern has taken me from building fault-tolerant distributed systems in C++ to deploying multilingual AI pipelines on GCP — and I care deeply about writing software that is both technically sound and meaningfully useful.
