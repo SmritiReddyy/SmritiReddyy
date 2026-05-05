@@ -9,8 +9,9 @@ Software Engineer · MS Computer Science, Northeastern University (May 2026)
 I'm a software engineer with a strong foundation in backend systems, cloud infrastructure, and applied machine learning. My graduate work at Northeastern has taken me from building fault-tolerant distributed systems in C++ to deploying multilingual AI pipelines on GCP — and I care deeply about writing software that is both technically sound and meaningfully useful.
  
 Most recently, I built **CourtAccess AI** — a real-time courtroom interpretation and legal document translation system for the Massachusetts Trial Court, presented at a Google expo. The project combines OCR, PII redaction, LLM-based translation, and a role-gated React frontend to help non-English speakers navigate the legal system. It's the kind of work I find most compelling: hard engineering problems in service of real equity.
- 
+
 I'm actively exploring opportunities in **Backend Engineering**, **AI/ML Engineering**, and **Full-Stack Development**. I'm on OPT (STEM extension eligible) and available immediately.
+
 ---
 
 ###  Skills
