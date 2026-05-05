@@ -1,7 +1,7 @@
 ## Hi 👋
 
+I'm **Smriti Reddy Uravakonda**
 <div align="center">
-# Smriti Reddy Uravakonda
  
 **Software Engineer · MS Computer Science, Northeastern University (May 2026)**
  
@@ -11,10 +11,6 @@ Building systems at the intersection of distributed infrastructure, machine lear
 [![Email](https://img.shields.io/badge/Email-u.smritireddy@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:u.smritireddy@gmail.com)
  
 </div>
-
-I'm **Smriti Reddy Uravakonda**
-
-Software Engineer · MS Computer Science, Northeastern University (May 2026)
 
 ### About Me
 
