@@ -1,9 +1,14 @@
 ## Hi 👋
+
 I'm **Smriti Reddy Uravakonda**
 
-I'm currently pursuing my **Master’s in Computer Science at Northeastern University**, with a focus on **software development** and **data analysis**.  
-My interests span **cloud computing, web development, machine learning, and data management**, and I enjoy working on projects that combine strong engineering foundations with data-driven insights.
+Software Engineer · MS Computer Science, Northeastern University (May 2026)
 
+### About Me
+
+I'm a software engineer with a strong foundation in backend systems, cloud infrastructure, and applied machine learning. My graduate work at Northeastern has taken me from building fault-tolerant distributed systems in C++ to deploying multilingual AI pipelines on GCP — and I care deeply about writing software that is both technically sound and meaningfully useful.
+Most recently, I built CourtAccess AI — a real-time courtroom interpretation and legal document translation system for the Massachusetts Trial Court, presented at a Google expo. The project combines OCR, PII redaction, LLM-based translation, and a role-gated React frontend to help non-English speakers navigate the legal system. It's the kind of work I find most compelling: hard engineering problems in service of real equity.
+I'm actively exploring opportunities in Backend Engineering, AI/ML Engineering, and Full-Stack Development. I'm on OPT (STEM extension eligible) and available immediately.
 ---
 
 ###  Skills
@@ -40,17 +45,11 @@ Algorithms · Data Structures · Object Oriented Programming · Software Develop
 
 ---
 
-### Certifications
+## Certifications
+ 
+- **AWS Academy Graduate — Cloud Architecting** · Amazon Web Services · April 2026 · [View Badge](https://www.credly.com/badges/86a1d831-0da0-4d4b-83ef-fb281c332872)
+- **AWS Academy Graduate — Cloud Foundations** · Amazon Web Services · February 2026 · [View Badge](https://www.credly.com/badges/42dcf9a8-bb6d-4e00-9b8b-db05e98e1394)
 
-**AWS Academy Graduate – Cloud Foundations**  
-Issued by Amazon Web Services (AWS) – February 2026
-
-https://www.credly.com/badges/42dcf9a8-bb6d-4e00-9b8b-db05e98e1394
-
-**AWS Academy Graduate - Cloud Architecting** 
-Issued by Amazon Web Services (AWS) – April 2026
-
-https://www.credly.com/badges/86a1d831-0da0-4d4b-83ef-fb281c332872
 
 ### Let’s Connect
 - **LinkedIn:** https://www.linkedin.com/in/smriti-reddy  
