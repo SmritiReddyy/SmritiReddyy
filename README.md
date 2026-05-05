@@ -46,9 +46,9 @@ Algorithms · Data Structures · Object Oriented Programming · Software Develop
 Issued by Amazon Web Services (AWS) – February 2026
 https://www.credly.com/badges/42dcf9a8-bb6d-4e00-9b8b-db05e98e1394
 
-
-###  GitHub Activity
-![My GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SmritiReddyy&theme=tokyo-night)
+**AWS Academy Graduate - Cloud Architecting** 
+Issued by Amazon Web Services (AWS) – February 2026
+https://www.credly.com/badges/86a1d831-0da0-4d4b-83ef-fb281c332872/public_url
 
 ### Let’s Connect
 - **LinkedIn:** https://www.linkedin.com/in/smriti-reddy  
