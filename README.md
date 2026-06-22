@@ -40,7 +40,7 @@ Algorithms · Data Structures · Object Oriented Programming · Software Develop
 
 ---
 
-###  Past Projects
+###  Published Papers
 - **Environmental Impact Analysis using Satellite Image Processing**  
   Presented at *IEEE 4th ASIANCON 2024*  
 
