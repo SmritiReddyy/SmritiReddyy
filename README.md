@@ -1,6 +1,6 @@
 ## Hi 👋
 
-I'm **Smriti Reddy Uravakonda**
+### I'm **Smriti Reddy Uravakonda**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-smriti--reddy-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smriti-reddy)
 [![Email](https://img.shields.io/badge/Email-u.smritireddy@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:u.smritireddy@gmail.com)
