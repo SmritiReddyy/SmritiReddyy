@@ -7,11 +7,43 @@ I'm **Smriti Reddy Uravakonda**
  
 ### About Me
 
-I'm a software engineer with a strong foundation in backend systems, cloud infrastructure, and applied machine learning. My graduate work at Northeastern has taken me from building fault-tolerant distributed systems in C++ to deploying multilingual AI pipelines on GCP — and I care deeply about writing software that is both technically sound and meaningfully useful.
- 
-Most recently, I built **CourtAccess AI** — a real-time courtroom interpretation and legal document translation system for the Massachusetts Trial Court, presented at a Google expo. The project combines OCR, PII redaction, LLM-based translation, and a role-gated React frontend to help non-English speakers navigate the legal system. It's the kind of work I find most compelling: hard engineering problems in service of real equity.
+I'm a software engineer with a strong foundation in backend systems,
+cloud infrastructure, and applied ML. I like working on problems where
+getting it wrong has real consequences — and building the kind of
+software that holds up when it matters.
 
-I'm actively exploring opportunities in **Backend Engineering**, **AI/ML Engineering**, and **Full-Stack Development**. I'm on OPT (STEM extension eligible) and available immediately.
+My background spans backend engineering, cloud infrastructure, and
+applied AI. I've built things from scratch and shipped them to real
+users, and I care as much about clean architecture as I do about
+the problem being worth solving.
+
+Here's some recent work I'm proud of:
+
+- **Argus** — a self-hosted Datadog alternative with real-time ML
+  anomaly detection. Kafka ingestion, Spark streaming, Isolation
+  Forest + LSTM Autoencoders, TimescaleDB, live WebSocket dashboard.
+  Built it because observability tooling shouldn't cost $40k/year.
+
+- **Meridian** — a multi-agent LLM research assistant that plans,
+  retrieves, critiques, and synthesizes answers with full source
+  attribution. LangGraph orchestration, FAISS semantic search,
+  RAGAS evaluation, MLflow tracking. Powered by Claude.
+
+- **NexLedger** — a distributed banking backend with event-driven
+  CQRS, Kafka-based saga orchestration, Redis idempotency, and
+  reactive fraud scoring. The kind of system where correctness
+  isn't optional.
+
+- **CourtAccess AI** — real-time courtroom interpretation and legal
+  document translation for the Massachusetts Trial Court. OCR, PII
+  redaction, LLM translation, role-gated React frontend. Presented
+  at a Google expo. Built it because access to justice shouldn't
+  depend on what language you speak.
+
+I'm actively looking for roles in **Backend Engineering**,
+**AI/ML Engineering**, or **Full-Stack Development**.
+On OPT, STEM extension eligible, available immediately.
+
 
 ---
 
