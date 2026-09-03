@@ -85,6 +85,7 @@ Algorithms · Data Structures · Object Oriented Programming · Software Develop
  
 - **AWS Academy Graduate — Cloud Architecting** · Amazon Web Services · April 2026 · [View Badge](https://www.credly.com/badges/86a1d831-0da0-4d4b-83ef-fb281c332872)
 - **AWS Academy Graduate — Cloud Foundations** · Amazon Web Services · February 2026 · [View Badge](https://www.credly.com/badges/42dcf9a8-bb6d-4e00-9b8b-db05e98e1394)
+- **The Basics of Google Cloud Compute Skill Badge** ·July 2026·[View Badge](https://www.credly.com/badges/92697097-07d7-4527-b338-c79cf52abb42/public_url)·
 
 
 ### Let’s Connect
