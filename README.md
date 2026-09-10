@@ -12,12 +12,24 @@ cloud infrastructure, and applied ML. I like working on problems where
 getting it wrong has real consequences — and building the kind of
 software that holds up when it matters.
 
-My background spans backend engineering, cloud infrastructure, and
+My background spans backend engineering, cloud infrastructure, data engineering, and
 applied AI. I've built things from scratch and shipped them to real
 users, and I care as much about clean architecture as I do about
 the problem being worth solving.
 
 Here's some recent work I'm proud of:
+
+- **Lodestar** — an ELT analytics platform built
+  to strengthen my data engineering foundations. Airflow for orchestration,
+  dbt for transformation and warehouse modeling, and Terraform for
+  infrastructure as code. End-to-end verified from ingestion through
+  transformed, analytics-ready tables.
+  
+- **Tideline** — a CDC streaming lakehouse. Debezium captures change
+  data from Postgres, Kafka handles the transport, Spark does the
+  streaming processing, and Delta Lake/Iceberg provides the lakehouse
+  storage layer. Ran the full live Docker stack myself end-to-end and
+  validated real (not just simulated) pipeline metrics.
 
 - **Argus** — a self-hosted Datadog alternative with real-time ML
   anomaly detection. Kafka ingestion, Spark streaming, Isolation
@@ -41,6 +53,8 @@ Here's some recent work I'm proud of:
   depend on what language you speak.
 
 I'm actively looking for roles in **Backend Engineering**,
+**Data Engineering**, **Data Science**, **AI/ML Engineering**, or
+**Full-Stack Development**.
 **AI/ML Engineering**, or **Full-Stack Development**.
 On OPT, STEM extension eligible, available immediately.
 
@@ -51,6 +65,9 @@ On OPT, STEM extension eligible, available immediately.
 
 **Languages**  
 Python · Java · C++ · JavaScript · TypeScript · SQL · HTML5 · CSS3 · Data Structures & Algorithms
+
+**Data Engineering**  
+Airflow · dbt · Kafka · Debezium (CDC) · Spark / PySpark · Delta Lake · Apache Iceberg · Terraform (IaC) · Warehouse Modeling · TimescaleDB
 
 **Libraries / ML**  
 Scikit-Learn · TensorFlow · Keras · PyTorch · NumPy · Pandas  
@@ -92,4 +109,4 @@ Algorithms · Data Structures · Object Oriented Programming · Software Develop
 - **LinkedIn:** https://www.linkedin.com/in/smriti-reddy  
 - **Email:** u.smritireddy@gmail.com  
 
-I’m always open to collaborating on interesting software, systems, or ML projects.
+I’m always open to collaborating on interesting software, systems, data, or ML projects.
