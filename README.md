@@ -84,8 +84,7 @@ AWS (EC2, S3, Lambda) · GCP · Azure
 **Tools**  
 Git · GitHub · SSMS · QGIS · Power BI · Power Query  
 
-**Other**
-
+**Other** 
 Algorithms · Data Structures · Object Oriented Programming · Software Development · MS Office Suite · Google Suite
 
 ---
