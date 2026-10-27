@@ -80,6 +80,7 @@ Algorithms · Data Structures · Object Oriented Programming · Software Develop
 
 ### Let’s Connect
 - **LinkedIn:** https://www.linkedin.com/in/smriti-reddy  
-- **Email:** u.smritireddy@gmail.com  
+- **Email:** u.smritireddy@gmail.com
+- **Portfolio** https://smriti-reddy-portfolio.vercel.app
 
 I’m always open to collaborating on interesting software, systems, data, or ML projects.
