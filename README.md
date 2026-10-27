@@ -1,4 +1,4 @@
-## Hi 👋
+## Hi there
 
 ### I'm **Smriti Reddy Uravakonda**
 
@@ -19,43 +19,16 @@ the problem being worth solving.
 
 Here's some recent work I'm proud of:
 
-- **Lodestar** — an ELT analytics platform built
-  to strengthen my data engineering foundations. Airflow for orchestration,
-  dbt for transformation and warehouse modeling, and Terraform for
-  infrastructure as code. End-to-end verified from ingestion through
-  transformed, analytics-ready tables.
-  
-- **Tideline** — a CDC streaming lakehouse. Debezium captures change
-  data from Postgres, Kafka handles the transport, Spark does the
-  streaming processing, and Delta Lake/Iceberg provides the lakehouse
-  storage layer. Ran the full live Docker stack myself end-to-end and
-  validated real (not just simulated) pipeline metrics.
-
-- **Argus** — a self-hosted Datadog alternative with real-time ML
-  anomaly detection. Kafka ingestion, Spark streaming, Isolation
-  Forest + LSTM Autoencoders, TimescaleDB, live WebSocket dashboard.
-  Built it because observability tooling shouldn't cost $40k/year.
-
-- **Meridian** — a multi-agent LLM research assistant that plans,
-  retrieves, critiques, and synthesizes answers with full source
-  attribution. LangGraph orchestration, FAISS semantic search,
-  RAGAS evaluation, MLflow tracking. Powered by Claude.
-
-- **NexLedger** — a distributed banking backend with event-driven
-  CQRS, Kafka-based saga orchestration, Redis idempotency, and
-  reactive fraud scoring. The kind of system where correctness
-  isn't optional.
-
-- **CourtAccess AI** — real-time courtroom interpretation and legal
-  document translation for the Massachusetts Trial Court. OCR, PII
-  redaction, LLM translation, role-gated React frontend. Presented
-  at a Google expo. Built it because access to justice shouldn't
-  depend on what language you speak.
+- **[Lodestar](https://github.com/SmritiReddyy/lodestar)**: ELT analytics platform with Airflow, dbt, and Terraform, verified end to end from ingestion to analytics-ready tables.
+- **[Tideline](https://github.com/SmritiReddyy/tideline)**: CDC streaming lakehouse with Debezium, Kafka, Spark, and Delta Lake, validated on a live Docker stack.
+- **[Argus](https://github.com/SmritiReddyy/Argus)**: self-hosted observability platform with real-time ML anomaly detection (Kafka, Spark, Isolation Forest, LSTM autoencoders).
+- **[Meridian](https://github.com/SmritiReddyy/meridian)**: multi-agent LLM research assistant with source attribution (LangGraph, FAISS, RAGAS, Claude).
+- **[NexLedger](https://github.com/SmritiReddyy/NexLedger)**: event-sourced banking backend with CQRS, Kafka sagas, Redis idempotency, and fraud scoring.
+- **[CourtAccess AI](https://github.com/SmritiReddyy/courtaccess-backend)**: real-time courtroom interpretation and legal translation for the Massachusetts Trial Court. Presented at a Google expo.
 
 I'm actively looking for roles in **Backend Engineering**,
 **Data Engineering**, **Data Science**, **AI/ML Engineering**, or
 **Full-Stack Development**.
-**AI/ML Engineering**, or **Full-Stack Development**.
 On OPT, STEM extension eligible, available immediately.
 
 
